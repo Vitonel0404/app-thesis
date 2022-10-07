@@ -1,0 +1,9 @@
+
+train: ../ImagesPaloma/images/train  # train images (relative to 'path') 128 images
+val: ../ImagesPaloma/images/val  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 1
+names: ["paloma"]
+
